@@ -1,0 +1,15 @@
+{
+	"name": "adfram17",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "629ebdbe-a752-4232-9465-f9a10a11d892",
+		"tenantId": "07de6f8b-2f8e-445a-9c28-007caaa901ec"
+	}
+}
